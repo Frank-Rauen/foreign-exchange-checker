@@ -9,7 +9,7 @@ const Navbar = (props) => {
     <Link to='/'><h1>Xchange</h1></Link>
     <li><Link to='/index'>Full Country Code List</Link></li>
     <li><Link to='/lookup'>Lookup Value</Link></li>
-    <li><Link to='/compare'>Value Comparison</Link></li>
+    <li><Link to='/comparison'>Value Comparison</Link></li>
     <li><Link to='/convert'>Convert Value</Link></li>
     </nav>
     </Fragment>
