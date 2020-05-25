@@ -1,0 +1,25 @@
+.codelist {
+    font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.codelist tr th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  border-collapse: collapse;
+
+}
+
+.codelist tr td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  border-collapse: collapse;
+
+  }
+
+.codelist tr:nth-child(even) {
+    background-color: #dddddd
+}
